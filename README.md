@@ -1,6 +1,9 @@
 # vue-cli-project
 
-> A Vue.js project
+> A simple Vue.js project. 
+- When the title is clicked it will change texts
+- When the names of the Ninjas are clicked their superpowers will appear below
+- When the "delete" button is clicked it will remove the last Ninja from the screen and the list of names
 
 ## Build Setup
 
