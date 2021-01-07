@@ -4,13 +4,13 @@
 
 ## Build Setup
 
-`` bash
+``` bash
 # install dependencies
 > npm install
 
 # serve with hot reload at localhost:8080
 > npm run dev
 
-# Made by Fatima Abdillahi
+ Made by Fatima Abdillahi
 
 
